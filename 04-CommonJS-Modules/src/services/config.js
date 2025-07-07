@@ -1,5 +1,5 @@
 const devArea = {
-    version: "01AB",
+    version: "01ab",
     production: true,
 };
 
